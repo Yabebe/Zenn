@@ -5,7 +5,7 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["データ分析","学習記録","機械学習","Python","データ基盤"]
 published: true
 ---
-
+c79e4cbc688a1d
 
 # はじめに
 こんにちは。 [yabebe](https://twitter.com/yabebe_t)です。Crezitというフィンテックスタートアップの代表をやっています。個人的には今年は勝負の年で、起業家としてはマネジメントや組織作りへのシフトなどなど色々な角度のチャレンジがあります。
